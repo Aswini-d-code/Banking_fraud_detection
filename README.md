@@ -75,8 +75,9 @@ Analyzed fraud trends by transaction type:
 ## 📁 Files Included
 
 - `Bank_fraud_detection.ipynb` – Python code for EDA + ML modeling
-- `Bank_fraud_analysis.xlsx` – Excel analysis, pivot tables, and charts
-- `Bank_fraud_dashboard.pbix` – Power BI interactive dashboard
+- `Bank_fraud_detection.xlsx` – Excel analysis, pivot tables, and charts
+- `Bank_fraud_detection.pbix` – Power BI interactive dashboard
+- `Bank_fraud_dataset.csv`
 - `README.md` – Project summary and documentation
 
 ---
