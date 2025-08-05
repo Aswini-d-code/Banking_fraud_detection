@@ -72,7 +72,7 @@ Analyzed fraud trends by transaction type:
 
 ---
 
-## 📁 Files Included
+##  Files Included
 
 - `Bank_fraud_detection.ipynb` – Python code for EDA + ML modeling
 - `Bank_fraud_detection.xlsx` – Excel analysis, pivot tables, and charts
@@ -82,7 +82,7 @@ Analyzed fraud trends by transaction type:
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 This project demonstrates a complete fraud detection pipeline with data cleaning, visual analytics (Excel + Power BI), SQL exploration, and
 machine learning. Logistic Regression performed effectively, especially in identifying frauds with a strong recall.
